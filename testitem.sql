@@ -110,3 +110,5 @@ WHERE  year = 2024
 --Step 8 : Drop temp table
 ----------------------------------------------------
 drop table  [pse].[VS_NJ_tech_179607_09182024]
+
+-- This is the comment 
