@@ -13,7 +13,7 @@
 SELECT * 
 FROM   state 
 WHERE   abbreviation = 'NJ' 
-and state_key = 2
+and state_key = 37736486489
 ​
 
 -----------------------------------------------  
@@ -112,3 +112,6 @@ WHERE  year = 2024
 drop table  [pse].[VS_NJ_tech_179607_09182024]
 
 -- This is the comment 
+
+
+-- New files have been changed by contributor
